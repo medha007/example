@@ -8,6 +8,6 @@ public class MedhaActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_medha);
+        setContentView(R.layout.activity_medha2);
     }
 }
