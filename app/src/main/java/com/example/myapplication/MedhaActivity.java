@@ -4,10 +4,10 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class MedhaActivity extends AppCompatActivity {
-//update project
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_medha2);
+        setContentView(R.layout.activity_medha3);
     }
 }
