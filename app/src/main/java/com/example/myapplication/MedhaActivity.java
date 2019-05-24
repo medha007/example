@@ -7,7 +7,6 @@ public class MedhaActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-//        upated my project
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_medha3);
     }
